@@ -1,0 +1,31 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE settings
+.vscode/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Temporary files
+*.log
+*.tmp
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+
+# Sionna source code and archives
+sionna-main/
+sionna-main.zip
+
+# Private or unrelated materials
+notion_交付/
+毕设任务全景梳理与阶段实施指南.docx
